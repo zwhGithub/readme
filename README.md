@@ -13,10 +13,4 @@
 
 **城市：** 深圳<br/>
 **职位：** Node.js 后端开发<br/>
-**Github：** [https://github.com/zwhGithub](https://github.com/zwhgithub)
-
-## 联系我
-
-**交朋友：** 我的WeChat<br/>
-
-<img src="https://tva1.sinaimg.cn/large/007X8olVly1g8vme7jjg1j30kw0r2dhg.jpg" width="291px"/>
+**blog：** [http://zwhgithub.github.io/](http://zwhgithub.github.io/)
