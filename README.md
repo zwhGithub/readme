@@ -1,14 +1,15 @@
-# 关于我
+# About Me
 
-## 简介
+## Introduction
 
-**姓名：** 曾文华 <br/>
-**昵称：** 华仔<br/>
+**Truename：** 曾文华 <br/>
+**Nickname：** 华仔<br/>
 **最喜欢的一句话：** 任你怎说 安守我本份，始终相信 **沉默是金**。<br/>
-**邮箱：** <zwhcoder@gmail.com>
+**Email：** <zwhcoder@gmail.com>
+**Blog：** [http://zwhgithub.github.io/](http://zwhgithub.github.io/)
 
-## 职业
+## Professional
 
-**城市：** 深圳<br/>
-**职位：** Node.js 后端开发<br/>
-**博客地址：** [http://zwhgithub.github.io/](http://zwhgithub.github.io/)
+**City：** 深圳<br/>
+**position：** Node.js 后端开发<br/>
+
