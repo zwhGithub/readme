@@ -2,7 +2,6 @@
 
 ## Introduction
 
-**truename：** 曾文华 <br/>
 **nickname：** 华仔<br/>
 **Email：** <zwhcoder@gmail.com><br/>
 **Blog：** [http://zwhgithub.github.io](http://zwhgithub.github.io)
